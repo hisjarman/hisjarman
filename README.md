@@ -1,60 +1,65 @@
 # Solomon Jarman
 
-### AI Platform Developer | AI Automation | Voice AI | Web Applications
+### AI Automation & Integration Developer | Web Applications | Cloud Systems
 
-I'm a founder and hands-on developer focused on building practical AI-powered products that solve real business problems.
+I build practical software that connects AI services, business workflows, APIs, and cloud infrastructure.
 
-I design, develop, integrate, and improve intelligent automation systems, AI-powered communication platforms, and modern web applications.
+My approach is hands-on and product-focused: understand the operational problem, design a workable solution, integrate the systems, test the result, document limitations, and improve it.
 
-I'm the founder and builder of **Star69AI**, a managed AI receptionist platform designed to help businesses handle customer calls, capture leads, and improve customer communication.
+I'm the founder and primary builder of **[Star69AI](https://star69ai.com)**, an AI receptionist platform for service businesses. It is my flagship project and the main example of how I approach real-world application development.
 
 ## Featured Project
 
-### [Star69AI](https://star69ai.com)
+### [Star69AI — AI Receptionist Platform](https://github.com/hisjarman/star69ai)
 
-A managed AI receptionist platform for service-based businesses.
+[Visit the project](https://star69ai.com) · [Explore the source code](https://github.com/hisjarman/star69ai)
 
-- AI voice receptionist workflows
-- Automated customer engagement and lead capture
-- Client and admin portal development
-- API integrations and backend services
-- Cloudflare Workers and D1
-- Authentication and subscription payment integrations
-- Responsive website development and deployment
+Star69AI brings together a public website, customer and administration interfaces, backend services, database workflows, and third-party integrations.
 
-**Repository:** [github.com/hisjarman/star69ai](https://github.com/hisjarman/star69ai)  
-**Explore the service:** [star69ai.com](https://star69ai.com)
+**What the project demonstrates**
+- Building and maintaining a multi-page web application with HTML, CSS, and JavaScript.
+- Designing backend endpoints and service integrations with Cloudflare Workers.
+- Working with relational data and schema migrations in Cloudflare D1 / SQL.
+- Integrating authentication and authorization workflows with Clerk.
+- Connecting voice-AI services, webhooks, and business communication workflows.
+- Developing customer-facing and administrative interfaces.
+- Using Git, GitHub branches, pull requests, commits, and automated checks to manage changes.
+- Translating business requirements into features, operational rules, and documentation.
 
-## Technical Skills & Project Experience
-
-| Area | Technologies / Focus |
+**Architecture**
+| Layer | Technology |
 |---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Cloudflare Workers |
+| Public site and web interfaces | GitHub Pages, HTML, CSS, JavaScript |
+| Backend and API | Cloudflare Workers |
 | Database | Cloudflare D1, SQL |
-| APIs | REST API integrations, webhooks |
-| Authentication | Clerk integrations |
-| Payments | Stripe integrations |
-| Development | Git, GitHub, version control |
-| AI | Voice AI, conversational AI, automation |
+| Authentication | Clerk |
+| Voice AI | Retell AI |
+| Payments | Stripe integration work |
+| Source control and delivery | Git, GitHub, GitHub Actions |
 
-## Areas of Interest
+The repository documents implementation status and outstanding verification. I distinguish source-code implementation from features that have been deployed and tested end to end; I do not present planned or unverified functionality as production-ready.
 
-- AI automation and AI agents
-- Voice AI and conversational systems
-- Web application development
-- API integration and backend automation
-- Technical implementation and product development
-- Freelance development and consulting
+## Technical Focus
+
+- AI automation and voice-AI applications
+- API integration, webhooks, and backend workflows
+- Cloud-hosted web applications
+- Systems integration and operational automation
+- Authentication, data workflows, and application architecture
+- AI-assisted development, debugging, and testing
+
+## How I Work
+
+I use AI development tools to accelerate research, implementation, and troubleshooting, while taking responsibility for reviewing changes, understanding system behavior, validating results, and documenting limitations. My goal is not merely to generate code, but to deliver software that solves a real operational problem.
 
 ## Opportunities
 
-I'm open to **remote employment, freelance contracts, and project-based collaborations** involving AI, automation, web applications, and integrations.
+Open to remote employment, contract work, and technical implementation opportunities involving AI automation, API integrations, cloud applications, and business systems.
 
-- **Website:** [star69ai.com](https://star69ai.com)
+- **Portfolio project:** [Star69AI](https://star69ai.com)
 - **GitHub:** [github.com/hisjarman](https://github.com/hisjarman)
 - **Contact:** [hello@star69ai.com](mailto:hello@star69ai.com)
 
 ---
 
-*Building useful technology. Solving real problems. Turning ideas into working products.*
+*Building useful systems. Connecting technology to real business problems. Improving through practical work.*
